@@ -760,6 +760,16 @@ a:active {
 	margin: 0 0 1.5em;
 }
 
+div.wrapper {
+    width: 1000px;
+    margin:0 auto;
+    margin-bottom: 100px;
+    overflow: hidden;
+    background-image: url('images/lightparchment.jpg');
+    background-size: 2500px;
+}
+
+
 /*--------------------------------------------------------------
 10.2 Asides
 --------------------------------------------------------------*/
